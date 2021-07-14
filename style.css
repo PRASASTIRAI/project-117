@@ -1,0 +1,22 @@
+.heading {
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width:100%;
+    margin:0px;
+    box-shadow: 8px 8px 8px gray;
+    background-color: gray;
+    color: honeydew;
+}
+
+.heading_div{
+    float:none;
+    background-color: honeydew;
+    padding: 10px;
+    border-radius: 30px;
+    color: black;
+    box-shadow: 8px 8px 8px gray;
+    font-weight: bold;
+}
+.heading_div2{
+    box-shadow: 3px 3px 3px gray;
+}
